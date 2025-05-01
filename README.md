@@ -145,6 +145,4 @@ your_game_folder/
 ## License
 
 (Choose and specify a license, e.g., MIT, GPL).
-```
-
-Just save this text as `README.md` in your repository. GitHub will automatically render it on your project page.
+``
