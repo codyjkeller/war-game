@@ -1,7 +1,3 @@
-The README content is already formatted using Markdown, which is the standard format for README files on GitHub. You can simply copy the content from the "WW1 Trenches Game README" immersive document and paste it into a file named `README.md` in the root directory of your GitHub repository.
-
-Here is the content again for easy copying:
-
 ```markdown
 # WW1 Trenches: A Top-Down Shooter
 
