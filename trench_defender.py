@@ -581,7 +581,7 @@
              // Passive Trench Repair
              if (trenchHealth < maxTrenchHealth && trenchHealth > 0) { trenchHealth = Math.min(maxTrenchHealth, trenchHealth + trenchRepairRate * upgradeLevels.trenchRepair); updateUI(); }
              // Trench switch cooldown update (even if not used for movement)
-             if (playerTrenchSwitchCooldown > 0) playerTrenchSwitchCooldown--;
+             // if (playerTrenchSwitchCooldown > 0) playerTrenchSwitchCooldown--; // This line was causing the error
         }
 
         // Removed switchTrench function
